@@ -54,3 +54,4 @@ by a PR so other fellow can try it.
 |-----|-----------|------|-------------|-------|
 |     |           |      |             |       |
 | 757166  | Pablo Jordan | [Primary Goal](https://github.com/pabloJordan24/lab6-microservices/blob/test/PrimaryGoal/PrimaryGoal.md) |             |       |
+| 646946  | Hector Herrmann | [Primary Goal](https://github.com/HNHerrmann/lab6-microservices/blob/test/report.md) |             |       |
